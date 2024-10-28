@@ -1,0 +1,1 @@
+export { default as MouseScrollAnimation } from './MouseScrollAnimation.json'
